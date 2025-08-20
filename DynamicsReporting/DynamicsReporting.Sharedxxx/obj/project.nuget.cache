@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/4oX9GnfuWo=",
+  "success": true,
+  "projectFilePath": "D:\\viriyah.co.th\\DynamicsReporting\\DynamicsReporting.Shared\\DynamicsReporting.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thitinanc\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.6\\microsoft.extensions.dependencyinjection.abstractions.9.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

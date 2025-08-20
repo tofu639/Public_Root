@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Branch\**" />
+    <Compile Remove="ConfigPage\**" />
+    <EmbeddedResource Remove="Branch\**" />
+    <EmbeddedResource Remove="ConfigPage\**" />
+    <None Remove="Branch\**" />
+    <None Remove="ConfigPage\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Authen\AuthenModel.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="DynamicsReporting.Models.csproj.Backup.tmp" />
+  </ItemGroup>
+
+</Project>
