@@ -6,7 +6,7 @@
 		<ImplicitUsings>enable</ImplicitUsings>
 		<ScopedCssEnabled>false</ScopedCssEnabled>
 
-		<!-- ✅ แก้ปัญหา StaticWebAssets LastWriteTime -->
+
 		<StaticWebAssetsPreserveFileTimestamps>false</StaticWebAssetsPreserveFileTimestamps>
 		<DisableFastUpToDateCheck>true</DisableFastUpToDateCheck>
 		<EnableDefaultContentItems>false</EnableDefaultContentItems>
@@ -20,6 +20,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
+		<Compile Remove="Model\LoginModel.cs" />
 		<Compile Remove="Views\Error.cshtml.cs" />
 		<Compile Remove="Views\Index.cshtml.cs" />
 		<Compile Remove="Views\Privacy.cshtml.cs" />
@@ -35,8 +36,13 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <None Remove="Views\Authen\q0ker12r.npf~" />
+	  <None Remove="Views\Index.cshtml" />
+	  <None Remove="Views\Privacy.cshtml" />
+	</ItemGroup>
+
+	<ItemGroup>
 		<PackageReference Include="ClosedXML" Version="0.105.0" />
-		<PackageReference Include="Newtonsoft.Json" Version="13.0.4-beta1" />
 	</ItemGroup>
 
 </Project>

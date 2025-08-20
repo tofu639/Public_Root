@@ -1,8 +1,19 @@
-﻿var builder = WebApplication.CreateBuilder(args);
+﻿using DynamicsReportingApp.Services;
 
 
+var builder = WebApplication.CreateBuilder(args);
+
+// Add services to the container.
 builder.Services.AddControllersWithViews();
 
+// Register HttpClient + ApiService
+builder.Services.AddHttpClient<IApiService, ApiService>();
+
+// IConfiguration is already available via builder.Configuration
+builder.Services.AddSingleton(builder.Configuration);
+
+// Add Session
+builder.Services.AddDistributedMemoryCache();
 builder.Services.AddSession(options =>
 {
     options.IdleTimeout = TimeSpan.FromMinutes(30);
@@ -12,37 +23,30 @@ builder.Services.AddSession(options =>
 
 var app = builder.Build();
 
-// Error handling & HSTS
+// Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
-    app.UseExceptionHandler("/Error");
+    app.UseExceptionHandler("/Home/Error");
     app.UseHsts();
 }
 
 app.UseHttpsRedirection();
-
-// 3. ✅ ให้โหลดไฟล์ static เช่น CSS, JS, JSON (จาก wwwroot)
 app.UseStaticFiles();
 
-// 4. ✅ Session (ต้องมาก่อน UseRouting/UseAuthorization)
 app.UseRouting();
+
+
 app.UseSession();
 
-// 5. ✅ Authorization
 app.UseAuthorization();
 
+//app.MapControllerRoute(
+//    name: "default",
+//    pattern: "{controller=Authen}/{action=Index}/{id?}");
 
-
-
-// 6. ✅ Map controller
-
-app.UseEndpoints(static endpoints =>
-{
-    endpoints.MapControllerRoute(
-        name: "default",
-        pattern: "{controller=Authen}/{action=Login}/{id?}");
-});
-
+app.MapControllerRoute(
+    name: "default",
+    pattern: "{controller=Authen}/{action=Login}/{id?}");
 
 
 app.Run();

@@ -1,8 +1,7 @@
-﻿
+﻿using System.ComponentModel.DataAnnotations;
+using System.Text.Json.Serialization;
 
-using System.ComponentModel.DataAnnotations;
-
-namespace DynamicsReporting.Models.Authen
+namespace DynamicsReportingApp.Model.Authen
 {
     public class AuthenRequestModel
     {
@@ -19,16 +18,6 @@ namespace DynamicsReporting.Models.Authen
         public string BranchCode { get; set; } = "003";// string.Empty;
 
     }
-
-
-    public class BranchModel
-    {
-        public string branch_code { get; set; }
-        public string branch_name { get; set; }
-
-        public string default_server { get; set; }
-    }
-
 
 
 

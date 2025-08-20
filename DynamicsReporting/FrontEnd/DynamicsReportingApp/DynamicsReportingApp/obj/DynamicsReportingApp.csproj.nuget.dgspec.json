@@ -54,10 +54,6 @@
             "ClosedXML": {
               "target": "Package",
               "version": "[0.105.0, )"
-            },
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[13.0.4-beta1, )"
             }
           },
           "imports": [
