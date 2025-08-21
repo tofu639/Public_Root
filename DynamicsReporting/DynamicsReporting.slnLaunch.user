@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Backend\\DynamicsReporting.API\\DynamicsReporting.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Backend\\DynamicsReporting.ExternalService\\DynamicsReporting.ExternalService.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
