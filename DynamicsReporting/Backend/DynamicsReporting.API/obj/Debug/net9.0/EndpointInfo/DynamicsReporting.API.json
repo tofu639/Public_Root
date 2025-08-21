@@ -107,7 +107,7 @@
         }
       }
     },
-    "/getAll": {
+    "/api/Group/getAll": {
       "get": {
         "tags": [
           "Group"
@@ -135,37 +135,9 @@
             "description": "OK"
           }
         }
-      },
-      "post": {
-        "tags": [
-          "Report"
-        ],
-        "parameters": [
-          {
-            "name": "currentPage",
-            "in": "query",
-            "schema": {
-              "type": "integer",
-              "format": "int32"
-            }
-          },
-          {
-            "name": "pageSize",
-            "in": "query",
-            "schema": {
-              "type": "integer",
-              "format": "int32"
-            }
-          }
-        ],
-        "responses": {
-          "200": {
-            "description": "OK"
-          }
-        }
       }
     },
-    "/groupId/{groupId}": {
+    "/api/Group/groupId/{groupId}": {
       "get": {
         "tags": [
           "Group"
@@ -204,7 +176,37 @@
         }
       }
     },
-    "/reportId/{reportId}": {
+    "/api/Report/getAll": {
+      "post": {
+        "tags": [
+          "Report"
+        ],
+        "parameters": [
+          {
+            "name": "currentPage",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "pageSize",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Report/reportId/{reportId}": {
       "post": {
         "tags": [
           "Report"

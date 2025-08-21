@@ -19,7 +19,7 @@ public class AuthenController : Controller
         var branches = await _apiService.GetBranchAsync();
         ViewBag.Branches = new SelectList(branches, "BranchCode", "BranchName");
 
-        return View();
+        return View("Login");
     }
 
     [HttpGet]
