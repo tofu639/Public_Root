@@ -1,0 +1,5 @@
+wwwroot\images\loader1.gif
+wwwroot\images\logo.png
+wwwroot\images\viriyah-logo.jpg
+wwwroot\images\viriyah.ico
+D:\viriyah.co.th\DynamicsReporting\FrontEnd\DynamicsReportingApp\DynamicsReportingApp\wwwroot\images\viriyah.ico
