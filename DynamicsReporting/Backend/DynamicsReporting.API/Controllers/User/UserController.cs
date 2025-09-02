@@ -1,4 +1,4 @@
-﻿using DynamicsReporting.BusinessLogic.Service.User.Interface;
+﻿using DynamicsReporting.ExternalService.Service.User.Interface;
 using DynamicsReporting.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Dynamic;
@@ -63,32 +63,32 @@ namespace DynamicsReporting.API.Controllers.User
 
 
 
-        // GET: api/user/{id}/GroupReport
-        [HttpGet("groupReport/{userId}")]
-        public async Task<IActionResult> GroupReportByUserIdAsync(int userId, int currentPage, int pageSize)
-        {
+        //////// GET: api/user/{id}/GroupReport
+        //////[HttpGet("groupReport/{userId}")]
+        //////public async Task<IActionResult> GroupReportByUserIdAsync(int userId, int currentPage, int pageSize)
+        //////{
 
-            var result = new PaginatedResult<UserGroupReportModel>();
-            try
-            {
-                result = await _userService.GroupReportByUserIdAsync(userId, currentPage, pageSize);
+        //////    var result = new PaginatedResult<UserGroupReportModel>();
+        //////    try
+        //////    {
+        //////        result = await _userService.GroupReportByUserIdAsync(userId, currentPage, pageSize);
 
-                if (result.Data.Count == 0)
-                {
-                    result.StatusCode = 400;
-                    return StatusCode(400, result);
-                }
+        //////        if (result.Data.Count == 0)
+        //////        {
+        //////            result.StatusCode = 400;
+        //////            return StatusCode(400, result);
+        //////        }
 
-                result.StatusCode = 200;
-                return StatusCode(200, result);
-            }
-            catch
-            {
-                result.StatusCode = 500;
-                return StatusCode(500, result);
-            }
+        //////        result.StatusCode = 200;
+        //////        return StatusCode(200, result);
+        //////    }
+        //////    catch
+        //////    {
+        //////        result.StatusCode = 500;
+        //////        return StatusCode(500, result);
+        //////    }
 
-        }
+        //////}
 
 
 

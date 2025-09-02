@@ -2,6 +2,7 @@
 using System.Dynamic;
 using System.Text.Json;
 using DynamicsReporting.ExternalService;
+using DynamicsReporting.ExternalService.Utility;
 
 
 public class DynamicsReportingService : IDynamicsReportingService

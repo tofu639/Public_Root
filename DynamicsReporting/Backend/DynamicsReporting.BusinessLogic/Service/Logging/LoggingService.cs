@@ -1,11 +1,11 @@
-﻿using DynamicsReporting.BusinessLogic.Service.Logging.Interface;
+﻿using DynamicsReporting.ExternalService.Service.Logging.Interface;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DynamicsReporting.BusinessLogic.Service.Logging
+namespace DynamicsReporting.ExternalService.Service.Logging
 {
     public class LoggingService : ILoggingService
     {

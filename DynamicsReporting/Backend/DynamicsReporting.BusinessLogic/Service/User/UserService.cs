@@ -1,7 +1,7 @@
-﻿using DynamicsReporting.BusinessLogic.Service.User.Interface;
+﻿using DynamicsReporting.ExternalService.Service.User.Interface;
 using DynamicsReporting.Models;
 
-namespace DynamicsReporting.BusinessLogic.Service.User
+namespace DynamicsReporting.ExternalService.Service.User
 {
 
 
@@ -28,10 +28,10 @@ namespace DynamicsReporting.BusinessLogic.Service.User
             return await _userRepository.GetByUserNameAsync(userName);
         }
 
-        public async Task<PaginatedResult<UserGroupReportModel>> GroupReportByUserIdAsync(int userId, int currentPage, int pageSize)
-        {
-            return await _userRepository.GroupReportByUserIdAsync(userId, currentPage, pageSize);
-        }
+        //public async Task<PaginatedResult<UserGroupReportModel>> GroupReportByUserIdAsync(string userId, int currentPage, int pageSize)
+        //{
+        //    return await _userRepository.GroupReportByUserIdAsync(userId, currentPage, pageSize);
+        //}
 
 
     }

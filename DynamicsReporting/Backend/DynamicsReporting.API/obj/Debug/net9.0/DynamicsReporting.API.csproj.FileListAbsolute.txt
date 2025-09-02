@@ -1,3 +1,11 @@
+D:\viriyah.co.th\DynamicsReporting\Backend\DynamicsReporting.API\obj\Debug\net9.0\DynamicsReporting.API.csproj.AssemblyReference.cache
+D:\viriyah.co.th\DynamicsReporting\Backend\DynamicsReporting.API\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\viriyah.co.th\DynamicsReporting\Backend\DynamicsReporting.API\obj\Debug\net9.0\DynamicsReporting.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\viriyah.co.th\DynamicsReporting\Backend\DynamicsReporting.API\obj\Debug\net9.0\DynamicsReporting.API.AssemblyInfoInputs.cache
+D:\viriyah.co.th\DynamicsReporting\Backend\DynamicsReporting.API\obj\Debug\net9.0\DynamicsReporting.API.AssemblyInfo.cs
+D:\viriyah.co.th\DynamicsReporting\Backend\DynamicsReporting.API\obj\Debug\net9.0\DynamicsReporting.API.csproj.CoreCompileInputs.cache
+D:\viriyah.co.th\DynamicsReporting\Backend\DynamicsReporting.API\obj\Debug\net9.0\DynamicsReporting.API.MvcApplicationPartsAssemblyInfo.cache
+D:\viriyah.co.th\DynamicsReporting\Backend\DynamicsReporting.API\obj\Debug\net9.0\DynamicsReporting.API.MvcApplicationPartsAssemblyInfo.cs
 D:\viriyah.co.th\DynamicsReporting\Backend\DynamicsReporting.API\bin\Debug\net9.0\appsettings.json
 D:\viriyah.co.th\DynamicsReporting\Backend\DynamicsReporting.API\bin\Debug\net9.0\DynamicsReporting.API.staticwebassets.endpoints.json
 D:\viriyah.co.th\DynamicsReporting\Backend\DynamicsReporting.API\bin\Debug\net9.0\DynamicsReporting.API.exe
@@ -83,14 +91,6 @@ D:\viriyah.co.th\DynamicsReporting\Backend\DynamicsReporting.API\bin\Debug\net9.
 D:\viriyah.co.th\DynamicsReporting\Backend\DynamicsReporting.API\bin\Debug\net9.0\DynamicsReporting.ExternalService.pdb
 D:\viriyah.co.th\DynamicsReporting\Backend\DynamicsReporting.API\bin\Debug\net9.0\DynamicsReporting.DataAccess.pdb
 D:\viriyah.co.th\DynamicsReporting\Backend\DynamicsReporting.API\bin\Debug\net9.0\DynamicsReporting.Models.pdb
-D:\viriyah.co.th\DynamicsReporting\Backend\DynamicsReporting.API\obj\Debug\net9.0\DynamicsReporting.API.csproj.AssemblyReference.cache
-D:\viriyah.co.th\DynamicsReporting\Backend\DynamicsReporting.API\obj\Debug\net9.0\rpswa.dswa.cache.json
-D:\viriyah.co.th\DynamicsReporting\Backend\DynamicsReporting.API\obj\Debug\net9.0\DynamicsReporting.API.GeneratedMSBuildEditorConfig.editorconfig
-D:\viriyah.co.th\DynamicsReporting\Backend\DynamicsReporting.API\obj\Debug\net9.0\DynamicsReporting.API.AssemblyInfoInputs.cache
-D:\viriyah.co.th\DynamicsReporting\Backend\DynamicsReporting.API\obj\Debug\net9.0\DynamicsReporting.API.AssemblyInfo.cs
-D:\viriyah.co.th\DynamicsReporting\Backend\DynamicsReporting.API\obj\Debug\net9.0\DynamicsReporting.API.csproj.CoreCompileInputs.cache
-D:\viriyah.co.th\DynamicsReporting\Backend\DynamicsReporting.API\obj\Debug\net9.0\DynamicsReporting.API.MvcApplicationPartsAssemblyInfo.cs
-D:\viriyah.co.th\DynamicsReporting\Backend\DynamicsReporting.API\obj\Debug\net9.0\DynamicsReporting.API.MvcApplicationPartsAssemblyInfo.cache
 D:\viriyah.co.th\DynamicsReporting\Backend\DynamicsReporting.API\obj\Debug\net9.0\rjimswa.dswa.cache.json
 D:\viriyah.co.th\DynamicsReporting\Backend\DynamicsReporting.API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 D:\viriyah.co.th\DynamicsReporting\Backend\DynamicsReporting.API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json

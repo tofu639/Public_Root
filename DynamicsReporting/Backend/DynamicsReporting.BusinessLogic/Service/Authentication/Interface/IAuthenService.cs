@@ -1,6 +1,6 @@
 ﻿using DynamicsReporting.Models.Authen;
 
-namespace DynamicsReporting.BusinessLogic.Service.Authentication.Interface
+namespace DynamicsReporting.ExternalService.Service.Authentication.Interface
 {
     public interface IAuthenService
     {

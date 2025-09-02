@@ -1,7 +1,7 @@
-using DynamicsReporting.BusinessLogic.Service.Group.Interface;
-using DynamicsReporting.BusinessLogic.Service.Report.Interface;
-using DynamicsReporting.BusinessLogic.Service.User;
-using DynamicsReporting.BusinessLogic.Service.User.Interface;
+using DynamicsReporting.ExternalService.Service.Group.Interface;
+using DynamicsReporting.ExternalService.Service.Report.Interface;
+using DynamicsReporting.ExternalService.Service.User;
+using DynamicsReporting.ExternalService.Service.User.Interface;
 using DynamicsReporting.DataAccess.Repository.DatabaseConnection;
 using DynamicsReporting.DataAccess.Repository.Logging;
 using DynamicsReporting.ExternalService;

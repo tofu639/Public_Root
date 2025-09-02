@@ -1,4 +1,4 @@
-﻿namespace DynamicsReporting.BusinessLogic.Service.Logging.Interface
+﻿namespace DynamicsReporting.ExternalService.Service.Logging.Interface
 {
     public interface ILoggingService
     { 

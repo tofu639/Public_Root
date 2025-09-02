@@ -1,7 +1,9 @@
-﻿using DynamicsReporting.BusinessLogic.Service.Authentication.Interface;
+﻿using DynamicsReporting.ExternalService.Service.Authentication.Interface;
 using DynamicsReporting.Models.Authen;
 using DynamicsReporting.Models.Base;
 using Microsoft.AspNetCore.Mvc;
+
+
 
 namespace DynamicsReporting.API.Controllers.Authentication
 {
@@ -18,11 +20,11 @@ namespace DynamicsReporting.API.Controllers.Authentication
 
         private readonly IAuthenService _authenService;
         private readonly ILoggingRepository _logger;
-        private readonly ExternalService.Utility _utility;
+        private readonly ExternalService.Utility.Utility _utility;
 
 
 
-        public AuthenController(IAuthenService authenService, ILoggingRepository loggingRepository, ExternalService.Utility utility)
+        public AuthenController(IAuthenService authenService, ILoggingRepository loggingRepository, ExternalService.Utility.Utility utility)
         {
             _authenService = authenService;
             _logger = loggingRepository;
@@ -52,8 +54,8 @@ namespace DynamicsReporting.API.Controllers.Authentication
                     responseData.ErrorType = ResponseStatus.Success;
                     responseData.StatusCode = 200;
 
+                    return StatusCode(HttpStatus.OK, responseData);
 
-                    return StatusCode(HttpStatus.OK, new { responseData });
                 }
 
                 responseData.ErrorCode = "1";
@@ -61,7 +63,7 @@ namespace DynamicsReporting.API.Controllers.Authentication
                 responseData.Status = ResponseStatus.Failed;
                 responseData.ErrorType = "DataNotFound";
                 responseData.StatusCode = 404;
-                return StatusCode(HttpStatus.NotFound, new { responseData });
+                return StatusCode(HttpStatus.NotFound, responseData);
 
             }
             catch (Exception ex)
@@ -72,7 +74,7 @@ namespace DynamicsReporting.API.Controllers.Authentication
                 addLogModel.ErrorMessages = "ErrorCode 500 " + ex.Message;
                 addLogModel.FunctionName = "GetBranchALL";
 
-                _logger.AddLogAsync(addLogModel);
+                await _logger.AddLogAsync(addLogModel);
 
                 responseData.ErrorCode = "500";
                 responseData.ErrorMessage = ex.Message;
@@ -109,7 +111,7 @@ namespace DynamicsReporting.API.Controllers.Authentication
                     responseData.ErrorType = ResponseStatus.Success;
                     responseData.StatusCode = 200;
 
-                    return Ok(responseData);
+                    return StatusCode(HttpStatus.OK, responseData);
                 }
 
                 responseData.ErrorCode = "1";
@@ -118,7 +120,7 @@ namespace DynamicsReporting.API.Controllers.Authentication
                 responseData.ErrorType = "DataNotFound";
                 responseData.StatusCode = 404;
 
-                return NotFound(responseData);
+                return StatusCode(HttpStatus.NotFound, responseData);
             }
             catch (Exception ex)
             {
@@ -128,14 +130,13 @@ namespace DynamicsReporting.API.Controllers.Authentication
                 addLogModel.ErrorMessages = "ErrorCode 500 " + ex.Message;
                 addLogModel.FunctionName = "GetBranchALL";
 
-                _logger.AddLogAsync(addLogModel);
+                await _logger.AddLogAsync(addLogModel);
 
                 responseData.ErrorCode = "500";
                 responseData.ErrorMessage = ex.Message;
                 responseData.Status = ResponseStatus.Error;
                 responseData.ErrorType = ResponseErrorType.Exception;
                 responseData.StatusCode = 500;
-
                 return StatusCode(500, responseData);
             }
 
@@ -163,7 +164,7 @@ namespace DynamicsReporting.API.Controllers.Authentication
                     responseData.ErrorType = ResponseStatus.Success;
                     responseData.StatusCode = 200;
 
-                    return Ok(responseData);
+                    return StatusCode(HttpStatus.OK, responseData);
                 }
 
                 responseData.ErrorCode = "1";
@@ -172,7 +173,7 @@ namespace DynamicsReporting.API.Controllers.Authentication
                 responseData.ErrorType = "DataNotFound";
                 responseData.StatusCode = 404;
 
-                return NotFound(responseData);
+                return StatusCode(HttpStatus.NotFound, responseData);
 
 
             }
@@ -186,7 +187,7 @@ namespace DynamicsReporting.API.Controllers.Authentication
                 addLogModel.ErrorMessages = ErrMessage;
                 addLogModel.FunctionName = "Authen";
 
-                _logger.AddLogAsync(addLogModel);
+                await _logger.AddLogAsync(addLogModel);
 
                 responseData.ErrorCode = "500";
                 responseData.ErrorMessage = ErrMessage;

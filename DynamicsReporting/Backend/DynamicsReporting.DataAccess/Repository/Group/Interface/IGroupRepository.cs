@@ -6,9 +6,9 @@ namespace DynamicsReporting.DataAccess.Repository.Group.Interface
     {
 
         Task<PaginatedResult<GroupReportModel>> GetReportByGroupIdAsync(int groupId, int currentPage, int pageSize);
-        Task<PaginatedResult<GroupModel>> GetAllAsync(int currentPage, int pageSize);       
+        Task<PaginatedResult<GroupModel>> GetAllAsync(int currentPage, int pageSize);
 
-
+        Task<PaginatedResult<GroupReportUseModel>> GetGroupReportByUserIdAsync(string userID, int currentPage, int pageSize);
 
     }
 }

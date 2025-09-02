@@ -18,10 +18,6 @@ namespace DynamicsReporting.DataAccess.Repository.User
         }
 
 
-
-
-
-
         public async Task<PaginatedResult<UserModel>> GetAllAsync(int currentPage, int pageSize)
         {
             var response = new PaginatedResult<UserModel>();
@@ -56,33 +52,32 @@ namespace DynamicsReporting.DataAccess.Repository.User
         }
 
 
-        public async Task<PaginatedResult<UserGroupReportModel>> GroupReportByUserIdAsync(int userId, int currentPage, int pageSize)
-        {
-            var response = new PaginatedResult<UserGroupReportModel>();
-            List<UserGroupReportModel> allResults = new();
+        //public async Task<PaginatedResult<UserGroupReportModel>> GroupReportByUserIdAsync(string userId, int currentPage, int pageSize)
+        //{
+        //    var response = new PaginatedResult<UserGroupReportModel>();
+        //    List<UserGroupReportModel> allResults = new();
 
 
-            var sql = "EXEC usp_GroupReportByUserId @i_UserID";
-            allResults = (await _db.QueryAsync<UserGroupReportModel>(sql, new { i_UserID = userId })).ToList();
-            var pagedData = allResults
-            .Skip((currentPage - 1) * pageSize)
-            .Take(pageSize)
-            .ToList();
+        //    var sql = "EXEC usp_GroupReportByUserId @i_UserID";
+        //    allResults = (await _db.QueryAsync<UserGroupReportModel>(sql, new { i_UserID = userId })).ToList();
+        //    var pagedData = allResults
+        //     .Skip((currentPage - 1) * pageSize)
+        //     .Take(pageSize)
+        //     .ToList();
 
-            response.Data = pagedData;
-            response.TotalCount = allResults.Count;
-            response.Pagination = new Pagination
-            {
-                CurrentPage = currentPage,
-                PageSize = pageSize,
-                TotalRecords = allResults.Count
-            };
-
-
-            return response;
+        //    response.Data = pagedData;
+        //    response.TotalCount = allResults.Count;
+        //    response.Pagination = new Pagination
+        //    {
+        //        CurrentPage = currentPage,
+        //        PageSize = pageSize,
+        //        TotalRecords = allResults.Count
+        //    };
 
 
-        }
+        //    return response;
+
+        //}
 
 
 

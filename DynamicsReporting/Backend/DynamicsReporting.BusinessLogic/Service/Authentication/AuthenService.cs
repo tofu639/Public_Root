@@ -1,10 +1,10 @@
-﻿using DynamicsReporting.BusinessLogic.Service.Authentication.Interface;
+﻿using DynamicsReporting.ExternalService.Service.Authentication.Interface;
 using DynamicsReporting.DataAccess.Repository.Authentication.Interface;
 using DynamicsReporting.Models.Authen;
 using Microsoft.Extensions.Configuration;
 
 
-namespace DynamicsReporting.BusinessLogic.Service.Authentication
+namespace DynamicsReporting.ExternalService.Service.Authentication
 {
     public class AuthenService : IAuthenService
     {

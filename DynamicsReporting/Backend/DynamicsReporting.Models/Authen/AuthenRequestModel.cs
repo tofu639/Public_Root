@@ -21,13 +21,13 @@ namespace DynamicsReporting.Models.Authen
     }
 
 
-    public class BranchModel
-    {
-        public string branch_code { get; set; }
-        public string branch_name { get; set; }
+    //public class BranchModel
+    //{
+    //    public string branch_code { get; set; }
+    //    public string branch_name { get; set; }
 
-        public string default_server { get; set; }
-    }
+    //    public string default_server { get; set; }
+    //}
 
 
 

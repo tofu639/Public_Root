@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DynamicsReporting.BusinessLogic.Service.Report.Interface
+namespace DynamicsReporting.ExternalService.Service.Report.Interface
 {
     public interface IReportService
     {

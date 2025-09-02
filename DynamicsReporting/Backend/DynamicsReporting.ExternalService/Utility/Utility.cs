@@ -1,13 +1,14 @@
 ﻿using System.Net;
 using System.Net.Sockets;
 using Microsoft.Extensions.Configuration;
-namespace DynamicsReporting.ExternalService;
+
+namespace DynamicsReporting.ExternalService.Utility;
 
 public class Utility
 {
     private readonly IConfiguration _configuration;
     //private readonly IHostEnvironment _hostEnvironment;
-    
+
 
     public Utility(IConfiguration configuration) //, IHostEnvironment hostEnvironment, IHttpContextAccessor httpContextAccessor)
     {
@@ -38,7 +39,7 @@ public class Utility
         return _configuration.GetSection(sectionName)?.Value ?? "";
 
     }
-     
+
     public double GetCacheAbsoluteExpiration()
     {
         var cacheSection = _configuration.GetSection("CacheAbsoluteExpiration");
@@ -65,5 +66,5 @@ public class Utility
         return Dns.GetHostEntry(Dns.GetHostName()).HostName;
     }
 
- 
+
 }

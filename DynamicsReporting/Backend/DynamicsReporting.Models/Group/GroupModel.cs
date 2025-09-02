@@ -12,3 +12,10 @@ public class GroupReportModel
     public int ReportID { get; set; }
     public bool GroupReportStatus { get; set; }
 }
+public class GroupReportUseModel
+{
+    public int UserGroupReportID { get; set; }
+    public int GroupID { get; set; }
+    public int UserID { get; set; }
+ 
+}

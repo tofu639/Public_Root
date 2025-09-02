@@ -3,96 +3,75 @@
   "WorkspaceRootPath": "D:\\viriyah.co.th\\DynamicsReporting\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6FDDC90A-EBC6-4F54-844B-1D8EA869A1AA}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|d:\\viriyah.co.th\\dynamicsreporting\\frontend\\dynamicsreportingapp\\dynamicsreportingapp\\views\\authen\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6FDDC90A-EBC6-4F54-844B-1D8EA869A1AA}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|solutionrelative:frontend\\dynamicsreportingapp\\dynamicsreportingapp\\views\\authen\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{379A4964-CAA7-0DA3-936D-792DE68F3C26}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|d:\\viriyah.co.th\\dynamicsreporting\\frontend\\dynamicsreportingapp\\dynamicsreportingapp\\views\\shared\\_loginlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{379A4964-CAA7-0DA3-936D-792DE68F3C26}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|solutionrelative:frontend\\dynamicsreportingapp\\dynamicsreportingapp\\views\\shared\\_loginlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FDDC90A-EBC6-4F54-844B-1D8EA869A1AA}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|d:\\viriyah.co.th\\dynamicsreporting\\frontend\\dynamicsreportingapp\\dynamicsreportingapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6FDDC90A-EBC6-4F54-844B-1D8EA869A1AA}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|solutionrelative:frontend\\dynamicsreportingapp\\dynamicsreportingapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{379A4964-CAA7-0DA3-936D-792DE68F3C26}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|d:\\viriyah.co.th\\dynamicsreporting\\frontend\\dynamicsreportingapp\\dynamicsreportingapp\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{379A4964-CAA7-0DA3-936D-792DE68F3C26}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|solutionrelative:frontend\\dynamicsreportingapp\\dynamicsreportingapp\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FDDC90A-EBC6-4F54-844B-1D8EA869A1AA}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|d:\\viriyah.co.th\\dynamicsreporting\\frontend\\dynamicsreportingapp\\dynamicsreportingapp\\views\\shared\\_loginlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6FDDC90A-EBC6-4F54-844B-1D8EA869A1AA}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|solutionrelative:frontend\\dynamicsreportingapp\\dynamicsreportingapp\\views\\shared\\_loginlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{379A4964-CAA7-0DA3-936D-792DE68F3C26}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|d:\\viriyah.co.th\\dynamicsreporting\\frontend\\dynamicsreportingapp\\dynamicsreportingapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{379A4964-CAA7-0DA3-936D-792DE68F3C26}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|solutionrelative:frontend\\dynamicsreportingapp\\dynamicsreportingapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FDDC90A-EBC6-4F54-844B-1D8EA869A1AA}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|d:\\viriyah.co.th\\dynamicsreporting\\frontend\\dynamicsreportingapp\\dynamicsreportingapp\\controllers\\authencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FDDC90A-EBC6-4F54-844B-1D8EA869A1AA}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|solutionrelative:frontend\\dynamicsreportingapp\\dynamicsreportingapp\\controllers\\authencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{379A4964-CAA7-0DA3-936D-792DE68F3C26}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|d:\\viriyah.co.th\\dynamicsreporting\\frontend\\dynamicsreportingapp\\dynamicsreportingapp\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{379A4964-CAA7-0DA3-936D-792DE68F3C26}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|solutionrelative:frontend\\dynamicsreportingapp\\dynamicsreportingapp\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B822B04F-A282-4521-98C1-B927C5AFE21E}|Backend\\DynamicsReporting.API\\DynamicsReporting.API.csproj|d:\\viriyah.co.th\\dynamicsreporting\\backend\\dynamicsreporting.api\\dynamicsreporting.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B822B04F-A282-4521-98C1-B927C5AFE21E}|Backend\\DynamicsReporting.API\\DynamicsReporting.API.csproj|solutionrelative:backend\\dynamicsreporting.api\\dynamicsreporting.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{379A4964-CAA7-0DA3-936D-792DE68F3C26}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|d:\\viriyah.co.th\\dynamicsreporting\\frontend\\dynamicsreportingapp\\dynamicsreportingapp\\views\\authen\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{379A4964-CAA7-0DA3-936D-792DE68F3C26}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|solutionrelative:frontend\\dynamicsreportingapp\\dynamicsreportingapp\\views\\authen\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FDDC90A-EBC6-4F54-844B-1D8EA869A1AA}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|d:\\viriyah.co.th\\dynamicsreporting\\frontend\\dynamicsreportingapp\\dynamicsreportingapp\\views\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6FDDC90A-EBC6-4F54-844B-1D8EA869A1AA}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|solutionrelative:frontend\\dynamicsreportingapp\\dynamicsreportingapp\\views\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FDDC90A-EBC6-4F54-844B-1D8EA869A1AA}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|d:\\viriyah.co.th\\dynamicsreporting\\frontend\\dynamicsreportingapp\\dynamicsreportingapp\\views\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6FDDC90A-EBC6-4F54-844B-1D8EA869A1AA}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|solutionrelative:frontend\\dynamicsreportingapp\\dynamicsreportingapp\\views\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FDDC90A-EBC6-4F54-844B-1D8EA869A1AA}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|d:\\viriyah.co.th\\dynamicsreporting\\frontend\\dynamicsreportingapp\\dynamicsreportingapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6FDDC90A-EBC6-4F54-844B-1D8EA869A1AA}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|solutionrelative:frontend\\dynamicsreportingapp\\dynamicsreportingapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FDDC90A-EBC6-4F54-844B-1D8EA869A1AA}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|d:\\viriyah.co.th\\dynamicsreporting\\frontend\\dynamicsreportingapp\\dynamicsreportingapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6FDDC90A-EBC6-4F54-844B-1D8EA869A1AA}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|solutionrelative:frontend\\dynamicsreportingapp\\dynamicsreportingapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FDDC90A-EBC6-4F54-844B-1D8EA869A1AA}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|d:\\viriyah.co.th\\dynamicsreporting\\frontend\\dynamicsreportingapp\\dynamicsreportingapp\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6FDDC90A-EBC6-4F54-844B-1D8EA869A1AA}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|solutionrelative:frontend\\dynamicsreportingapp\\dynamicsreportingapp\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FDDC90A-EBC6-4F54-844B-1D8EA869A1AA}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|d:\\viriyah.co.th\\dynamicsreporting\\frontend\\dynamicsreportingapp\\dynamicsreportingapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6FDDC90A-EBC6-4F54-844B-1D8EA869A1AA}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|solutionrelative:frontend\\dynamicsreportingapp\\dynamicsreportingapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{379A4964-CAA7-0DA3-936D-792DE68F3C26}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|d:\\viriyah.co.th\\dynamicsreporting\\frontend\\dynamicsreportingapp\\dynamicsreportingapp\\controllers\\authencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379A4964-CAA7-0DA3-936D-792DE68F3C26}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|solutionrelative:frontend\\dynamicsreportingapp\\dynamicsreportingapp\\controllers\\authencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B822B04F-A282-4521-98C1-B927C5AFE21E}|Backend\\DynamicsReporting.API\\DynamicsReporting.API.csproj|d:\\viriyah.co.th\\dynamicsreporting\\backend\\dynamicsreporting.api\\controllers\\authentication\\authencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B822B04F-A282-4521-98C1-B927C5AFE21E}|Backend\\DynamicsReporting.API\\DynamicsReporting.API.csproj|solutionrelative:backend\\dynamicsreporting.api\\controllers\\authentication\\authencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FDDC90A-EBC6-4F54-844B-1D8EA869A1AA}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|d:\\viriyah.co.th\\dynamicsreporting\\frontend\\dynamicsreportingapp\\dynamicsreportingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FDDC90A-EBC6-4F54-844B-1D8EA869A1AA}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|solutionrelative:frontend\\dynamicsreportingapp\\dynamicsreportingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{379A4964-CAA7-0DA3-936D-792DE68F3C26}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|d:\\viriyah.co.th\\dynamicsreporting\\frontend\\dynamicsreportingapp\\dynamicsreportingapp\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379A4964-CAA7-0DA3-936D-792DE68F3C26}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|solutionrelative:frontend\\dynamicsreportingapp\\dynamicsreportingapp\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FDDC90A-EBC6-4F54-844B-1D8EA869A1AA}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|d:\\viriyah.co.th\\dynamicsreporting\\frontend\\dynamicsreportingapp\\dynamicsreportingapp\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FDDC90A-EBC6-4F54-844B-1D8EA869A1AA}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|solutionrelative:frontend\\dynamicsreportingapp\\dynamicsreportingapp\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{379A4964-CAA7-0DA3-936D-792DE68F3C26}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|d:\\viriyah.co.th\\dynamicsreporting\\frontend\\dynamicsreportingapp\\dynamicsreportingapp\\dynamicsreportingapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{379A4964-CAA7-0DA3-936D-792DE68F3C26}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|solutionrelative:frontend\\dynamicsreportingapp\\dynamicsreportingapp\\dynamicsreportingapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FDDC90A-EBC6-4F54-844B-1D8EA869A1AA}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|d:\\viriyah.co.th\\dynamicsreporting\\frontend\\dynamicsreportingapp\\dynamicsreportingapp\\model\\response\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FDDC90A-EBC6-4F54-844B-1D8EA869A1AA}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|solutionrelative:frontend\\dynamicsreportingapp\\dynamicsreportingapp\\model\\response\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{379A4964-CAA7-0DA3-936D-792DE68F3C26}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|d:\\viriyah.co.th\\dynamicsreporting\\frontend\\dynamicsreportingapp\\dynamicsreportingapp\\model\\authen\\authenrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379A4964-CAA7-0DA3-936D-792DE68F3C26}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|solutionrelative:frontend\\dynamicsreportingapp\\dynamicsreportingapp\\model\\authen\\authenrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FDDC90A-EBC6-4F54-844B-1D8EA869A1AA}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|d:\\viriyah.co.th\\dynamicsreporting\\frontend\\dynamicsreportingapp\\dynamicsreportingapp\\services\\iapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FDDC90A-EBC6-4F54-844B-1D8EA869A1AA}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|solutionrelative:frontend\\dynamicsreportingapp\\dynamicsreportingapp\\services\\iapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{379A4964-CAA7-0DA3-936D-792DE68F3C26}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|d:\\viriyah.co.th\\dynamicsreporting\\frontend\\dynamicsreportingapp\\dynamicsreportingapp\\model\\authen\\branchmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379A4964-CAA7-0DA3-936D-792DE68F3C26}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|solutionrelative:frontend\\dynamicsreportingapp\\dynamicsreportingapp\\model\\authen\\branchmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FDDC90A-EBC6-4F54-844B-1D8EA869A1AA}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|d:\\viriyah.co.th\\dynamicsreporting\\frontend\\dynamicsreportingapp\\dynamicsreportingapp\\model\\response\\responsestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FDDC90A-EBC6-4F54-844B-1D8EA869A1AA}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|solutionrelative:frontend\\dynamicsreportingapp\\dynamicsreportingapp\\model\\response\\responsestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11DD1B40-CC71-42EA-A3A6-3C795A535FCF}|Backend\\DynamicsReporting.Models\\DynamicsReporting.Models.csproj|d:\\viriyah.co.th\\dynamicsreporting\\backend\\dynamicsreporting.models\\branch\\branchmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11DD1B40-CC71-42EA-A3A6-3C795A535FCF}|Backend\\DynamicsReporting.Models\\DynamicsReporting.Models.csproj|solutionrelative:backend\\dynamicsreporting.models\\branch\\branchmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FDDC90A-EBC6-4F54-844B-1D8EA869A1AA}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|d:\\viriyah.co.th\\dynamicsreporting\\frontend\\dynamicsreportingapp\\dynamicsreportingapp\\model\\response\\responseerrortype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FDDC90A-EBC6-4F54-844B-1D8EA869A1AA}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|solutionrelative:frontend\\dynamicsreportingapp\\dynamicsreportingapp\\model\\response\\responseerrortype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{379A4964-CAA7-0DA3-936D-792DE68F3C26}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|d:\\viriyah.co.th\\dynamicsreporting\\frontend\\dynamicsreportingapp\\dynamicsreportingapp\\model\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379A4964-CAA7-0DA3-936D-792DE68F3C26}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|solutionrelative:frontend\\dynamicsreportingapp\\dynamicsreportingapp\\model\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FDDC90A-EBC6-4F54-844B-1D8EA869A1AA}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|d:\\viriyah.co.th\\dynamicsreporting\\frontend\\dynamicsreportingapp\\dynamicsreportingapp\\model\\authen\\branchmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FDDC90A-EBC6-4F54-844B-1D8EA869A1AA}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|solutionrelative:frontend\\dynamicsreportingapp\\dynamicsreportingapp\\model\\authen\\branchmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FDDC90A-EBC6-4F54-844B-1D8EA869A1AA}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|d:\\viriyah.co.th\\dynamicsreporting\\frontend\\dynamicsreportingapp\\dynamicsreportingapp\\model\\authen\\authenrespondmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FDDC90A-EBC6-4F54-844B-1D8EA869A1AA}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|solutionrelative:frontend\\dynamicsreportingapp\\dynamicsreportingapp\\model\\authen\\authenrespondmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FDDC90A-EBC6-4F54-844B-1D8EA869A1AA}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|d:\\viriyah.co.th\\dynamicsreporting\\frontend\\dynamicsreportingapp\\dynamicsreportingapp\\model\\authen\\authenrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FDDC90A-EBC6-4F54-844B-1D8EA869A1AA}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|solutionrelative:frontend\\dynamicsreportingapp\\dynamicsreportingapp\\model\\authen\\authenrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{379A4964-CAA7-0DA3-936D-792DE68F3C26}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|d:\\viriyah.co.th\\dynamicsreporting\\frontend\\dynamicsreportingapp\\dynamicsreportingapp\\model\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379A4964-CAA7-0DA3-936D-792DE68F3C26}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|solutionrelative:frontend\\dynamicsreportingapp\\dynamicsreportingapp\\model\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FDDC90A-EBC6-4F54-844B-1D8EA869A1AA}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|d:\\viriyah.co.th\\dynamicsreporting\\frontend\\dynamicsreportingapp\\dynamicsreportingapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6FDDC90A-EBC6-4F54-844B-1D8EA869A1AA}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|solutionrelative:frontend\\dynamicsreportingapp\\dynamicsreportingapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{379A4964-CAA7-0DA3-936D-792DE68F3C26}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|d:\\viriyah.co.th\\dynamicsreporting\\frontend\\dynamicsreportingapp\\dynamicsreportingapp\\services\\iapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379A4964-CAA7-0DA3-936D-792DE68F3C26}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|solutionrelative:frontend\\dynamicsreportingapp\\dynamicsreportingapp\\services\\iapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FDDC90A-EBC6-4F54-844B-1D8EA869A1AA}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|d:\\viriyah.co.th\\dynamicsreporting\\frontend\\dynamicsreportingapp\\dynamicsreportingapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6FDDC90A-EBC6-4F54-844B-1D8EA869A1AA}|FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj|solutionrelative:frontend\\dynamicsreportingapp\\dynamicsreportingapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.301\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.SingleTargeting.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -102,7 +81,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -110,137 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Views\\_ViewStart.cshtml",
-              "ToolTip": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-21T06:46:53.951Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Views\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Views\\Privacy.cshtml",
-              "ToolTip": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Views\\Privacy.cshtml",
-              "RelativeToolTip": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Views\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-21T06:32:22.828Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Views\\Index.cshtml",
-              "RelativeDocumentMoniker": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Views\\Index.cshtml",
-              "ToolTip": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Views\\Index.cshtml",
-              "RelativeToolTip": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Views\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-21T06:32:05.62Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Views\\_ViewImports.cshtml",
-              "ToolTip": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-21T06:32:04.446Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-21T06:31:52.835Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AuthenController.cs",
-              "DocumentMoniker": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Controllers\\AuthenController.cs",
-              "RelativeDocumentMoniker": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Controllers\\AuthenController.cs",
-              "ToolTip": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Controllers\\AuthenController.cs",
-              "RelativeToolTip": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Controllers\\AuthenController.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAnwAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T03:40:04.619Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Views\\Authen\\Login.cshtml",
-              "RelativeDocumentMoniker": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Views\\Authen\\Login.cshtml",
-              "ToolTip": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Views\\Authen\\Login.cshtml",
-              "RelativeToolTip": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Views\\Authen\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-21T03:39:18.073Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_LoginLayout.cshtml",
-              "DocumentMoniker": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Views\\Shared\\_LoginLayout.cshtml",
-              "RelativeDocumentMoniker": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Views\\Shared\\_LoginLayout.cshtml",
-              "ToolTip": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Views\\Shared\\_LoginLayout.cshtml",
-              "RelativeToolTip": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Views\\Shared\\_LoginLayout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-21T03:43:29.635Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DynamicsReporting.API",
-              "DocumentMoniker": "D:\\viriyah.co.th\\DynamicsReporting\\Backend\\DynamicsReporting.API\\DynamicsReporting.API.csproj",
-              "RelativeDocumentMoniker": "Backend\\DynamicsReporting.API\\DynamicsReporting.API.csproj",
-              "ToolTip": "D:\\viriyah.co.th\\DynamicsReporting\\Backend\\DynamicsReporting.API\\DynamicsReporting.API.csproj",
-              "RelativeToolTip": "Backend\\DynamicsReporting.API\\DynamicsReporting.API.csproj",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-21T06:33:14.602Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "AuthenRequestModel.cs",
-              "DocumentMoniker": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Model\\Authen\\AuthenRequestModel.cs",
-              "RelativeDocumentMoniker": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Model\\Authen\\AuthenRequestModel.cs",
-              "ToolTip": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Model\\Authen\\AuthenRequestModel.cs",
-              "RelativeToolTip": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Model\\Authen\\AuthenRequestModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T03:34:30.158Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Views\\Shared\\_Layout.cshtml",
@@ -248,12 +97,25 @@
               "RelativeToolTip": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-21T06:24:40.675Z",
+              "WhenOpened": "2025-08-22T06:28:03.965Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-22T06:28:01.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "_Sidebar.cshtml",
               "DocumentMoniker": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Views\\Shared\\_Sidebar.cshtml",
               "RelativeDocumentMoniker": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Views\\Shared\\_Sidebar.cshtml",
@@ -261,150 +123,200 @@
               "RelativeToolTip": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Views\\Shared\\_Sidebar.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-21T06:24:42.618Z",
+              "WhenOpened": "2025-08-22T06:27:59.6Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "AuthenRespondModel.cs",
-              "DocumentMoniker": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Model\\Authen\\AuthenRespondModel.cs",
-              "RelativeDocumentMoniker": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Model\\Authen\\AuthenRespondModel.cs",
-              "ToolTip": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Model\\Authen\\AuthenRespondModel.cs",
-              "RelativeToolTip": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Model\\Authen\\AuthenRespondModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T03:53:08.77Z",
+              "DocumentIndex": 0,
+              "Title": "_LoginLayout.cshtml",
+              "DocumentMoniker": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Views\\Shared\\_LoginLayout.cshtml",
+              "RelativeDocumentMoniker": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Views\\Shared\\_LoginLayout.cshtml",
+              "ToolTip": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Views\\Shared\\_LoginLayout.cshtml",
+              "RelativeToolTip": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Views\\Shared\\_LoginLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T06:17:45.031Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 6,
               "Title": "AuthenController.cs",
               "DocumentMoniker": "D:\\viriyah.co.th\\DynamicsReporting\\Backend\\DynamicsReporting.API\\Controllers\\Authentication\\AuthenController.cs",
               "RelativeDocumentMoniker": "Backend\\DynamicsReporting.API\\Controllers\\Authentication\\AuthenController.cs",
               "ToolTip": "D:\\viriyah.co.th\\DynamicsReporting\\Backend\\DynamicsReporting.API\\Controllers\\Authentication\\AuthenController.cs",
               "RelativeToolTip": "Backend\\DynamicsReporting.API\\Controllers\\Authentication\\AuthenController.cs",
-              "ViewState": "AgIAAK0AAAAAAAAAAAAewLAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAvwCsAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T06:30:46.606Z",
+              "WhenOpened": "2025-08-22T03:15:22.658Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Program.cs",
-              "RelativeDocumentMoniker": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Program.cs",
-              "ToolTip": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Program.cs",
-              "RelativeToolTip": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Program.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAuwDAAAAAgAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "AuthenController.cs",
+              "DocumentMoniker": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Controllers\\AuthenController.cs",
+              "RelativeDocumentMoniker": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Controllers\\AuthenController.cs",
+              "ToolTip": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Controllers\\AuthenController.cs",
+              "RelativeToolTip": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Controllers\\AuthenController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwDcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T10:11:27.585Z",
+              "WhenOpened": "2025-08-22T03:08:08.056Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ResponseModel.cs",
-              "DocumentMoniker": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Model\\Response\\ResponseModel.cs",
-              "RelativeDocumentMoniker": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Model\\Response\\ResponseModel.cs",
-              "ToolTip": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Model\\Response\\ResponseModel.cs",
-              "RelativeToolTip": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Model\\Response\\ResponseModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T03:37:06.685Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ResponseErrorType.cs",
-              "DocumentMoniker": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Model\\Response\\ResponseErrorType.cs",
-              "RelativeDocumentMoniker": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Model\\Response\\ResponseErrorType.cs",
-              "ToolTip": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Model\\Response\\ResponseErrorType.cs",
-              "RelativeToolTip": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Model\\Response\\ResponseErrorType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T03:53:45.056Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 7,
               "Title": "ApiService.cs",
               "DocumentMoniker": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Services\\ApiService.cs",
               "RelativeDocumentMoniker": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Services\\ApiService.cs",
               "ToolTip": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Services\\ApiService.cs",
               "RelativeToolTip": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Services\\ApiService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBEAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T03:14:50.029Z",
+              "WhenOpened": "2025-08-22T03:08:08.132Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IApiService.cs",
-              "DocumentMoniker": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Services\\IApiService.cs",
-              "RelativeDocumentMoniker": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Services\\IApiService.cs",
-              "ToolTip": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Services\\IApiService.cs",
-              "RelativeToolTip": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Services\\IApiService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Model\\LoginModel.cs",
+              "RelativeDocumentMoniker": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Model\\LoginModel.cs",
+              "ToolTip": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Model\\LoginModel.cs",
+              "RelativeToolTip": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Model\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T03:15:05.296Z",
+              "WhenOpened": "2025-08-22T03:04:31.27Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 9,
+              "Title": "AuthenRequestModel.cs",
+              "DocumentMoniker": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Model\\Authen\\AuthenRequestModel.cs",
+              "RelativeDocumentMoniker": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Model\\Authen\\AuthenRequestModel.cs",
+              "ToolTip": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Model\\Authen\\AuthenRequestModel.cs",
+              "RelativeToolTip": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Model\\Authen\\AuthenRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T03:05:17.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Views\\Authen\\Login.cshtml",
+              "RelativeDocumentMoniker": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Views\\Authen\\Login.cshtml",
+              "ToolTip": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Views\\Authen\\Login.cshtml",
+              "RelativeToolTip": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Views\\Authen\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T03:02:14.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DynamicsReportingApp",
+              "DocumentMoniker": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj",
+              "RelativeDocumentMoniker": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj",
+              "ToolTip": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj",
+              "RelativeToolTip": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\DynamicsReportingApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-22T06:21:50.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BranchModel.cs",
+              "DocumentMoniker": "D:\\viriyah.co.th\\DynamicsReporting\\Backend\\DynamicsReporting.Models\\Branch\\BranchModel.cs",
+              "RelativeDocumentMoniker": "Backend\\DynamicsReporting.Models\\Branch\\BranchModel.cs",
+              "ToolTip": "D:\\viriyah.co.th\\DynamicsReporting\\Backend\\DynamicsReporting.Models\\Branch\\BranchModel.cs",
+              "RelativeToolTip": "Backend\\DynamicsReporting.Models\\Branch\\BranchModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T03:32:22.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "jquery.validate.min.js",
+              "DocumentMoniker": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+              "RelativeDocumentMoniker": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+              "ToolTip": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+              "RelativeToolTip": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-22T03:50:33.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "jquery.validate.unobtrusive.min.js",
+              "DocumentMoniker": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+              "RelativeDocumentMoniker": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+              "ToolTip": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+              "RelativeToolTip": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-22T03:50:36.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "BranchModel.cs",
               "DocumentMoniker": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Model\\Authen\\BranchModel.cs",
               "RelativeDocumentMoniker": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Model\\Authen\\BranchModel.cs",
               "ToolTip": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Model\\Authen\\BranchModel.cs",
               "RelativeToolTip": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Model\\Authen\\BranchModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBgAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T03:52:18.819Z",
+              "WhenOpened": "2025-08-22T03:03:53.984Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "ResponseStatus.cs",
-              "DocumentMoniker": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Model\\Response\\ResponseStatus.cs",
-              "RelativeDocumentMoniker": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Model\\Response\\ResponseStatus.cs",
-              "ToolTip": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Model\\Response\\ResponseStatus.cs",
-              "RelativeToolTip": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Model\\Response\\ResponseStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T03:58:57.58Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Views\\Account\\Login.cshtml",
-              "ToolTip": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-21T03:43:43.31Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\appsettings.json",
-              "RelativeDocumentMoniker": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\appsettings.json",
-              "ToolTip": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\appsettings.json",
-              "RelativeToolTip": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\appsettings.json",
+              "Title": "IApiService.cs",
+              "DocumentMoniker": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Services\\IApiService.cs",
+              "RelativeDocumentMoniker": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Services\\IApiService.cs",
+              "ToolTip": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Services\\IApiService.cs",
+              "RelativeToolTip": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Services\\IApiService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-21T03:38:33.098Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T04:32:46.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Model\\MenuItem.cs",
+              "RelativeDocumentMoniker": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Model\\MenuItem.cs",
+              "ToolTip": "D:\\viriyah.co.th\\DynamicsReporting\\FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Model\\MenuItem.cs",
+              "RelativeToolTip": "FrontEnd\\DynamicsReportingApp\\DynamicsReportingApp\\Model\\MenuItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T04:37:15.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Microsoft.NET.Sdk.StaticWebAssets.SingleTargeting.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.301\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.SingleTargeting.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.301\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.SingleTargeting.targets",
+              "ViewState": "AgIAAAoAAAAAAAAAAAASwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-08-22T02:30:51.605Z",
               "EditorCaption": ""
             }
           ]

@@ -1,6 +1,6 @@
-﻿namespace DynamicsReporting.BusinessLogic.Service.Report
+﻿namespace DynamicsReporting.ExternalService.Service.Report
 {
-    using DynamicsReporting.BusinessLogic.Service.Report.Interface;
+    using DynamicsReporting.ExternalService.Service.Report.Interface;
     using DynamicsReporting.DataAccess.Repository.Report.Interface;
     using DynamicsReporting.Models;
 

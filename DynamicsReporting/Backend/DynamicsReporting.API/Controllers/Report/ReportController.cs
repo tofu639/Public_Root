@@ -1,4 +1,4 @@
-﻿using DynamicsReporting.BusinessLogic.Service.Report.Interface;
+﻿using DynamicsReporting.ExternalService.Service.Report.Interface;
 using DynamicsReporting.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;

@@ -1,18 +1,19 @@
 ﻿
-using DynamicsReporting.BusinessLogic.Service.Group;
-using DynamicsReporting.BusinessLogic.Service.Group.Interface;
-using DynamicsReporting.BusinessLogic.Service.User;
-using DynamicsReporting.BusinessLogic.Service.User.Interface;
+using DynamicsReporting.ExternalService.Service.Group;
+using DynamicsReporting.ExternalService.Service.Group.Interface;
+using DynamicsReporting.ExternalService.Service.User;
+using DynamicsReporting.ExternalService.Service.User.Interface;
 using DynamicsReporting.DataAccess.Repository.DatabaseConnection;
 using DynamicsReporting.DataAccess.Repository.Logging;
 using DynamicsReporting.ExternalService;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using DynamicsReporting.BusinessLogic.Service.Report.Interface;
-using DynamicsReporting.BusinessLogic.Service.Report;
-using DynamicsReporting.BusinessLogic.Service.Authentication.Interface;
-using DynamicsReporting.BusinessLogic.Service.Authentication;
+using DynamicsReporting.ExternalService.Service.Report.Interface;
+using DynamicsReporting.ExternalService.Service.Report;
+using DynamicsReporting.ExternalService.Service.Authentication.Interface;
+using DynamicsReporting.ExternalService.Service.Authentication;
+using DynamicsReporting.ExternalService.Utility;
 
 
 public static class ServiceRegistrationExtension
