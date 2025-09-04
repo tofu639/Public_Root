@@ -13,39 +13,13 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-		<Content Include="Model\**" />
-		<Content Include="Views\**" />
-		<Content Include="Controllers\**" />
-		<Content Include="Services\**" />
-		<Content Include="wwwroot\**" />
-		
+		<!--<Content Include="wwwroot\images\logo.png" />
+		<Content Include="wwwroot\images\loader1.gif" />
+		<Content Include="wwwroot\images\viriyah-logo.jpg" />
+		<Content Include="wwwroot\images\viriyah.ico" />-->
 	</ItemGroup>
 
 	<ItemGroup>
-	  <Compile Remove="Views\Account\**" />
-	  <Compile Remove="wwwroot\css\**" />
-	  <Compile Remove="wwwroot\js\**" />
-	  <Compile Remove="wwwroot\lib\**" />
-	  <Content Remove="Views\Account\**" />
-	  <Content Remove="wwwroot\css\**" />
-	  <Content Remove="wwwroot\js\**" />
-	  <Content Remove="wwwroot\lib\**" />
-	  <EmbeddedResource Remove="Views\Account\**" />
-	  <EmbeddedResource Remove="wwwroot\css\**" />
-	  <EmbeddedResource Remove="wwwroot\js\**" />
-	  <EmbeddedResource Remove="wwwroot\lib\**" />
-	  <None Remove="Views\Account\**" />
-	  <None Remove="wwwroot\css\**" />
-	  <None Remove="wwwroot\js\**" />
-	  <None Remove="wwwroot\lib\**" />
-	</ItemGroup>
-
-	<ItemGroup>
-	  <Content Remove="Views\Shared\Login.cshtml" />
-	  <Content Remove="wwwroot\favicon.ico" />
-	</ItemGroup>
-
-	<!--<ItemGroup>
 		<Compile Remove="Model\LoginModel.cs" />
 		<Compile Remove="Views\Error.cshtml.cs" />
 		<Compile Remove="Views\Index.cshtml.cs" />
@@ -59,14 +33,12 @@
 		<Content Remove="Views\_ViewImports.cshtml" />
 		<Content Remove="Views\_ViewStart.cshtml" />
 		<Content Remove="wwwroot\favicon.ico" />
-	</ItemGroup>-->
+	</ItemGroup>
 
 	<ItemGroup>
-		<None Remove="Views\Authen\q0ker12r.npf~" />
-		<None Remove="Views\Index.cshtml" />
-		<None Remove="Views\Privacy.cshtml" />
-		<None Remove="Views\Shared\Login.cshtml" />
-		<None Remove="wwwroot\favicon.ico" />
+	  <None Remove="Views\Authen\q0ker12r.npf~" />
+	  <None Remove="Views\Index.cshtml" />
+	  <None Remove="Views\Privacy.cshtml" />
 	</ItemGroup>
 
 	<ItemGroup>

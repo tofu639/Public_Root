@@ -1,5 +1,4 @@
 ﻿using DynamicsReportingApp.Model.Authen;
-using System.Collections.Generic;
 using System.Text.Json;
 namespace DynamicsReportingApp.Services;
 
@@ -11,7 +10,7 @@ public class ApiService : IApiService
     private string AuthenGetBranch = "/Authen/GetBranch";
     private string AuthenGetBranchByBranchCode = "Authen/GetBranchByBranchCode/{branchCode}";
     private string Authen = "/Authen/Authen";
- 
+
     public ApiService(HttpClient http, IConfiguration config)
     {
         _http = http;
@@ -20,28 +19,8 @@ public class ApiService : IApiService
 
     public async Task<List<BranchModel>> GetBranchAsync()
     {
-        ResponseDataModel<List<BranchModel>> response = new ResponseDataModel<List<BranchModel>>();
-        List<BranchModel> branches = new List<BranchModel>();
-
-        try
-        {
-            var apiUrl = _config.GetValue<string>("ApiBaseUrl") + AuthenGetBranch;
-
-
-
-            response = await _http.GetFromJsonAsync<ResponseDataModel<List<BranchModel>>>(apiUrl);
-
-            branches = response.Data;
-
-        }
-        catch (Exception ex)
-        {
-            response.ErrorMessage = ex.Message;
-
-
-            throw;
-        }
-
+        var apiUrl = _config.GetValue<string>("ApiBaseUrl") + AuthenGetBranch;
+        var response = await _http.GetFromJsonAsync<ResponseDataModel<List<BranchModel>>>(apiUrl);
         return response?.Data ?? new List<BranchModel>();
     }
 
